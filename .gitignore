@@ -1,0 +1,20 @@
+# Unreal Engine — generated / derived
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+__pycache__/
+
+# IDE
+.vs/
+.idea/
+*.sln
+*.slnx
+.vsconfig
+*.suo
+*.xcodeproj
+*.xcworkspace
+*.VC.db
+*.opensdf
+*.sdf
